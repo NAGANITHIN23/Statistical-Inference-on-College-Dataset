@@ -42,7 +42,7 @@ Visualization Approaches
 # Expected Outcomes
 
 This research aims to:
-● Identify key institutional factors that predict student success
-● Quantify the impact of financial resources on educational outcomes
-● Provide insights into demographic equity in higher education
-● Develop recommendations for institutional improvement
+- Identify key institutional factors that predict student success
+- Quantify the impact of financial resources on educational outcomes
+- Provide insights into demographic equity in higher education
+- Develop recommendations for institutional improvement
